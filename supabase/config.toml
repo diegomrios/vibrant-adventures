@@ -1,0 +1,4 @@
+project_id = "ipwmmmrrqiqoghwvkpfs"
+
+[functions.travel-chat]
+verify_jwt = false
